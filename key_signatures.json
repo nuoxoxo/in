@@ -11,74 +11,74 @@
     "logo": "0almoUJ"
   },
   "1 flat": {
-    "major": "F Major",
-    "minor": "D Minor",
+    "major": "F major",
+    "minor": "D minor",
     "logo": "rJZuaFk"
   },
 
   "2 sharps": {
-    "major": "D Major",
+    "major": "D major",
     "minor": "B minor",
     "logo": "G2qOibg"
   },
   "2 flats": {
-    "major": "Bb Major",
-    "minor": "G Minor",
+    "major": "Bb major",
+    "minor": "G minor",
     "logo": "jpfimmK"
   },
 
   "3 sharps": {
-    "major": "A Major",
-    "minor": "F# Minor",
+    "major": "A major",
+    "minor": "F# minor",
     "logo": "55DY3Y8"
   },
   "3 flats": {
-    "major": "Eb Major",
-    "minor": "C Minor",
+    "major": "Eb major",
+    "minor": "C minor",
     "logo": "yH2Ae5k"
   },
 
   "4 sharps": {
-    "major": "E Major",
-    "minor": "C# Minor",
+    "major": "E major",
+    "minor": "C# minor",
     "logo": "6DIGL3Y"
   },
   "4 flats": {
-    "major": "Ab Major",
-    "minor": "F Minor",
+    "major": "Ab major",
+    "minor": "F minor",
     "logo": "qL6FTT4"
   },
 
   "5 sharps": {
-    "major": "B Major",
-    "minor": "Cb Minor",
+    "major": "B major",
+    "minor": "Cb minor",
     "logo": "JnzfwuV"
   },
   "5 flats": {
-    "major": "Db Major",
-    "minor": "Bb Minor",
+    "major": "Db major",
+    "minor": "Bb minor",
     "logo": "ENYdtuH"
   },
 
   "6 sharps": {
-    "major": "F# Major",
-    "minor": "D# Minor",
+    "major": "F# major",
+    "minor": "D# minor",
     "logo": "pMyMzy7"
   },
   "6 flats": {
-    "major": "Gb Major",
-    "minor": "Eb Minor",
+    "major": "Gb major",
+    "minor": "Eb minor",
     "logo": "6Luhwk9"
   },
 
   "7 sharps": {
-    "major": "C# Major",
-    "minor": "Bb Minor",
+    "major": "C# major",
+    "minor": "Bb minor",
     "logo": "yrJP4eX"
   },
   "7 flats": {
-    "major": "Cb Major",
-    "minor": "G# Minor",
+    "major": "Cb major",
+    "minor": "G# minor",
     "logo": "IQ6yZIl"
   }
 }
