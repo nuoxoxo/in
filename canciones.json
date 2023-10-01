@@ -1,4 +1,8 @@
 {
+    "Fleetwood Mac - Landslide": {
+        "tube": "k4M53xndqiU",
+        "cover": "KorPY9E"
+    },
     "Night of Ulan Bator": {
         "tube": "BVBDM4PyKXU",
         "cover": "cI5Y2Rg"
@@ -229,7 +233,11 @@
     },
     "New Order - Bizarre Love Triangle": {
         "tube": "ClFXhkLlDx8",
-        "cover": "5RPhNe2"
+        "cover": "31FenZ6"
+    },
+    "Joni Mitchell - Both Sides Now (2000)": {
+        "tube": "7cBf0olE9Yc",
+        "cover": "kwwE2fy"
     },
     "Pylon - Crazy": {
         "tube": "m1LzSu3yjkU",
@@ -270,6 +278,14 @@
     "The Blue Nile - Over the Hillside": {
         "tube": "jO2YdtdTiYw",
         "cover": "yiLpD9p"
+    },
+    "Renaissance - Northern Lights": {
+        "tube": "8pSMMo5b9VI",
+        "cover": "Ed9axkC"
+    },
+    "Mazzy Star - Disappear": {
+        "tube": "QUP7GvRTbAU",
+        "cover": "zom6wdu"
     },
     "The Jimi Hendrix Experience - The Wind Cries Mary": {
         "tube": "Wc7B4i89008",
@@ -359,6 +375,10 @@
         "tube": "vsT6Zfm_9GU",
         "cover": "AL0FN3U"
     },
+    "Joni Mitchell - Both Sides Now (1969)": {
+        "tube": "yXr2EFomFkU",
+        "cover": "n2VpqR1"
+    },
     "My Bloody Valentine - Sometimes": {
         "tube": "hSI_9P9rRt4",
         "cover": "uCVrdF6"
@@ -394,6 +414,10 @@
     "YMO - Cue": {
         "tube": "5T6cdnPeXyw",
         "cover": "98Ly9QA"
+    },
+    "Fleetwood Mac - Silver Springs": {
+        "tube": "kVE4aOUX2iM",
+        "cover": "97fewun"
     },
     "Frank Zappa - Peaches En Regalia": {
         "tube": "FoYdeEDdtK4",
