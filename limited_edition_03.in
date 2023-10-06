@@ -1,10 +1,26 @@
 {
-    "": {
-        "tube": "",
-        "cover": ""
+    "The Beatles - Dear Prudence": {
+        "tube": "wQA59IkCF5I",
+        "cover": "qOHO21w"
     },
-    "": {
-        "tube": "",
-        "cover": ""
+    "The Beatles - Norwegian Wood": {
+        "tube": "Y_V6y1ZCg_8",
+        "cover": "JhXDCcl"
+    },
+    "The Beatles - Here, There and Everywhere": {
+        "tube": "6VcfBh3hWO4",
+        "cover": "zh1ddn1"
+    },
+    "The Beatles - Lucy In The Sky With Diamonds": {
+        "tube": "naoknj1ebqI",
+        "cover": "EVeyZ1m"
+    },
+    "The Beatles - Strawberry Fields Forever": {
+        "tube": "HtUH9z_Oey8",
+        "cover": "rT82uhv"
+    },
+    "Siouxsie and the Banshees - Dear Prudence": {
+        "tube": "M6rrTROoZIw",
+        "cover": "Nj9zEou"
     }
 }
